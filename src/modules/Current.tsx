@@ -3,6 +3,7 @@ import { Text, View, Button, StyleSheet } from "react-native";
 import { observer } from "mobx-react";
 import { NavigationStoreContext } from "../../shared/NavigationStore";
 import { CounterStoreContext } from "../../shared/CounterStore";
+import "../App.css";
 
 interface Props {}
 
