@@ -1,2 +1,0 @@
-# ReactNativeWebPlayground
-Created with CodeSandbox
